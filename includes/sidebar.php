@@ -29,7 +29,7 @@
       <!-- Sidebar user panel (optional) -->
       <div class="user-panel mt-3 pb-3 mb-3 d-flex">
         <div class="image">
-          <img src="assests/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
+          <img src="../assests/dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
           <a href="#" class="d-block text-light">user Name</a>
@@ -44,7 +44,7 @@
           <!-- Add icons to the links using the .nav-icon class
                with font-awesome or any other icon font library -->
          <li class="nav-item menu-open">
-    <a href="index.php" class="nav-link active-dark">
+    <a href="../dashboard/index.php" class="nav-link active-dark">
         <i class="nav-icon fas fa-tachometer-alt"></i>
         <p>
             Dashboard
@@ -62,13 +62,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="profile.php" class="nav-link">
+                <a href="../student/profile.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Profile View</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="c_password.php" class="nav-link">
+                <a href="../student/c_password.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Change Password</p>
                 </a>
@@ -88,44 +88,44 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="course.php" class="nav-link">
+                <a href="../academic/course.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>course</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="subject.php" class="nav-link">
+                <a href="../academic/subject.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Subject</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="exam_schedule.php" class="nav-link">
+                <a href="../academic/exam_schedule.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Exam Schedule</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="result_check.php" class="nav-link">
+                <a href="../academic/result_check.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Result Check</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="class_schedule.php" class="nav-link">
+                <a href="../academic/class_schedule.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Class Schedule</p>
                 </a>
               </li>
                
               <li class="nav-item">
-                <a href="attandence_view.php" class="nav-link">
+                <a href="../academic/attandence_view.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Attandance View</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="assignment_view.php" class="nav-link">
+                <a href="../academic/assignment_view.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Assignment</p>
                 </a>
@@ -142,20 +142,20 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="notice.php" class="nav-link">
+                <a href="../communication/notice.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Notice</p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="announcement.php" class="nav-link">
+                <a href="../communication/announcement.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Announcement</p>
                 </a>
               </li>
               
               <li class="nav-item">
-                <a href="discussion_board.php" class="nav-link">
+                <a href="../communication/discussion_board.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Discussion Board</p>
                 </a>
@@ -174,19 +174,19 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="study_materials.php" class="nav-link">
+                <a href="../resource/study_materials.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p> Study material </p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="question_paper.php" class="nav-link">
+                <a href="../resource/question_paper.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Question papers </p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="e_books.php" class="nav-link">
+                <a href="../resource/e_books.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>E books</p>
                 </a>
@@ -204,13 +204,13 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="carriculam_activities.php" class="nav-link">
+                <a href="../activities/carriculam_activities.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Cariculam Activities </p>
                 </a>
               </li>
               <li class="nav-item">
-                <a href="event_calander.php" class="nav-link">
+                <a href="../activities/event_calander.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Event calendar</p>
                 </a>
@@ -228,7 +228,7 @@
             </a>
              <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a href="support_help.php" class="nav-link">
+                <a href="../setting/support_help.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Support & Help</p>
                 </a>
